@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vicenrosello
 - 👀 I’m interested in Web3, IA & Data Projects 
-- 🌱 I’m currently learning DeFi 
-- 💞️ I’m looking to collaborate on a data-driven company
+- 🌱 I’m currently learning ML 
 - 📫 You can reach me on vicenrosello@gmail.com 
 
 <!---
